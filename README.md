@@ -1,1 +1,0 @@
-Performed Exploratory Data Analysis (EDA) on a Yearly Sales dataset using Python, Pandas, Matplotlib, and Seaborn to analyze data quality, identify patterns, and generate meaningful business insights.
